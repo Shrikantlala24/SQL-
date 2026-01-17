@@ -107,18 +107,18 @@ Contributions are welcome! Here's how you can help:
 
 ## 📚 Topics Covered
 
-- ✅ Basic SQL syntax and commands
-- ✅ Data types and constraints
-- ✅ CRUD operations (Create, Read, Update, Delete)
-- ✅ Filtering and sorting data
-- ✅ JOIN operations
-- ✅ Aggregate functions and GROUP BY
-- ✅ Subqueries and nested queries
-- ✅ Views and indexes
-- ✅ Stored procedures and functions
-- ✅ Transactions and ACID properties
-- ✅ Query optimization techniques
-- ✅ Database design best practices
+- 📝 Basic SQL syntax and commands
+- 📝 Data types and constraints
+- 📝 CRUD operations (Create, Read, Update, Delete)
+- 📝 Filtering and sorting data
+- 📝 JOIN operations
+- 📝 Aggregate functions and GROUP BY
+- 📝 Subqueries and nested queries
+- 📝 Views and indexes
+- 📝 Stored procedures and functions
+- 📝 Transactions and ACID properties
+- 📝 Query optimization techniques
+- 📝 Database design best practices
 
 ## 🛠️ Tools and Resources
 
